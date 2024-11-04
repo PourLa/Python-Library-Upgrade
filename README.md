@@ -32,20 +32,20 @@ for package in packages:
 
 Bu betiği çalıştırmak için aşağıdaki adımları izleyin:
 
-	1.	Python’ın kurulu olduğundan emin olun.
-	2.	Terminal veya komut satırında aşağıdaki komutu çalıştırarak bu betiği çalıştırın:
+1.	Python’ın kurulu olduğundan emin olun.
+2.	Terminal veya komut satırında aşağıdaki komutu çalıştırarak bu betiği çalıştırın:
 
 ```bash
 python update_all_packages.py
 ```
-	3.	Betik, tüm yüklü paketleri tek tek güncelleyerek en güncel sürümlerini yükleyecektir.
+3.	Betik, tüm yüklü paketleri tek tek güncelleyerek en güncel sürümlerini yükleyecektir.
 
-	Not: Bu betiği çalıştırmadan önce sanal bir ortam (virtual environment) kullanmanız tavsiye edilir. Tüm sistem paketlerini güncellemek yerine, yalnızca proje gereksinimlerinizi güncellemek daha güvenlidir.
+Not: Bu betiği çalıştırmadan önce sanal bir ortam (virtual environment) kullanmanız tavsiye edilir. Tüm sistem paketlerini güncellemek yerine, yalnızca proje gereksinimlerinizi güncellemek daha güvenlidir.
 
 ⚠️ Uyarılar
 
-	•	Bağımlılık Uyum Sorunları: Bu betik, güncellenen bazı paketlerin bağımlılık uyumsuzluğu veya hata yaratması durumunda proje üzerinde istenmeyen etkilere neden olabilir. Güncellemeden önce yedek almak veya sanal bir ortamda çalışmak en iyisidir.
-	•	Komut Uyumsuzlukları: call() komutu işletim sistemine özgüdür ve bu nedenle bazı işletim sistemlerinde veya Python sürümlerinde farklı davranışlar gösterebilir.
+•	Bağımlılık Uyum Sorunları: Bu betik, güncellenen bazı paketlerin bağımlılık uyumsuzluğu veya hata yaratması durumunda proje üzerinde istenmeyen etkilere neden olabilir. Güncellemeden önce yedek almak veya sanal bir ortamda çalışmak en iyisidir.
+•	Komut Uyumsuzlukları: call() komutu işletim sistemine özgüdür ve bu nedenle bazı işletim sistemlerinde veya Python sürümlerinde farklı davranışlar gösterebilir.
 
 💬 Geri Bildirim
 
