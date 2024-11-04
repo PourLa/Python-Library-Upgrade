@@ -8,7 +8,8 @@ Bu betik, Python projenizdeki tüm kurulu paketleri `pip` kullanarak otomatik ol
 
 ## 📌 Nasıl Çalışır?
 
-Bu betik, Python `pkg_resources` modülünü kullanarak projenizde yüklü olan tüm paketleri listeler. Ardından, her bir paketi `pip install --upgrade <paket_adi>` komutu ile günceller.
+Bu betik, Python `pkg_resources` modülünü kullanarak projenizde yüklü olan tüm paketleri listeler. 
+Ardından, her bir paketi `pip install --upgrade <paket_adi>` komutu ile günceller.
 
 ---
 
@@ -44,8 +45,9 @@ Not: Bu betiği çalıştırmadan önce sanal bir ortam (virtual environment) ku
 
 ⚠️ Uyarılar
 
-•	Bağımlılık Uyum Sorunları: Bu betik, güncellenen bazı paketlerin bağımlılık uyumsuzluğu veya hata yaratması durumunda proje üzerinde istenmeyen etkilere neden olabilir. Güncellemeden önce yedek almak veya sanal bir ortamda çalışmak en iyisidir.
-•	Komut Uyumsuzlukları: call() komutu işletim sistemine özgüdür ve bu nedenle bazı işletim sistemlerinde veya Python sürümlerinde farklı davranışlar gösterebilir.
+•Bağımlılık Uyum Sorunları: Bu betik, güncellenen bazı paketlerin bağımlılık uyumsuzluğu veya hata yaratması durumunda proje üzerinde istenmeyen etkilere neden olabilir. Güncellemeden önce yedek almak veya sanal bir ortamda çalışmak en iyisidir.
+
+•Komut Uyumsuzlukları: call() komutu işletim sistemine özgüdür ve bu nedenle bazı işletim sistemlerinde veya Python sürümlerinde farklı davranışlar gösterebilir.
 
 💬 Geri Bildirim
 
