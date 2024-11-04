@@ -9,6 +9,7 @@ Bu betik, Python projenizdeki tüm kurulu paketleri `pip` kullanarak otomatik ol
 ## 📌 Nasıl Çalışır?
 
 Bu betik, Python `pkg_resources` modülünü kullanarak projenizde yüklü olan tüm paketleri listeler. 
+
 Ardından, her bir paketi `pip install --upgrade <paket_adi>` komutu ile günceller.
 
 ---
