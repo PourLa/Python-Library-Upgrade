@@ -52,6 +52,8 @@ Not: Bu betiği çalıştırmadan önce sanal bir ortam (virtual environment) ku
 Herhangi bir sorun yaşarsanız, lütfen bir issue oluşturun veya katkıda bulunun!
 
 Bu README.md, projeye açıklık getirir ve kodun nasıl çalıştığını, kullanım adımlarını ve bazı önemli uyarıları içeren bilgiler sağlar.
-```python
-Bu düzenleme ile başlıklar ve kod blokları daha belirgin hale getirildi. Her bölüm arasına ayırıcı çizgiler eklendi ve simgelerle başlıklar dikkat çekici hale getirildi.
+
+```bash
+Bu düzenleme ile başlıklar ve kod blokları daha belirgin hale getirildi.
+Her bölüm arasına ayırıcı çizgiler eklendi ve simgelerle başlıklar dikkat çekici hale getirildi.
 ```
